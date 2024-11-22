@@ -1,0 +1,18 @@
+.videoInfo {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+  color: var(--text-color);
+  z-index: 2;
+  max-width: 70%;
+}
+
+.videoInfo__channel h3 {
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+
+.videoInfo__description p {
+  font-size: 14px;
+  opacity: 0.9;
+} 
